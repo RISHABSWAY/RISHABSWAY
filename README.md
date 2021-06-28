@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RISHABSWAY
+- 👋 Hi, I’m @Rishab Sharma
 - 👀 I’m interested in competative coding
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on ...
